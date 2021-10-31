@@ -9,12 +9,15 @@ Stilling thinking about what gonna be put in here.
 ```markdown
 It's highlighted code block
 
+And this is
 - Bulleted
 - List
 
+And this is
 1. Numbered
 2. List
 
+And 
 **Bold** and _Italic_ and `Code` text
 
 And
@@ -25,7 +28,7 @@ I should learn markdown language.
 
 ### 2
 
-I stilling thinking about what gonna be put in here, too.
+Stilling thinking about what gonna be put in here, too.
 
 ### 3
 
